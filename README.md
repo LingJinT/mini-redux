@@ -1,2 +1,2 @@
 # mini-redux
-600byte redux
+600byte redux, with gzip 300byte
